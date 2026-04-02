@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+ranked_combine_players.csv
+.DS_Store
